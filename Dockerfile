@@ -5,6 +5,7 @@ ARG DEBIAN_FRONTEND='noninteractive'
 FROM ${FRM}:${TAG}
 ARG FRM
 ARG TAG
+ARG BUILD_OPT
 
 ## build note ##
 RUN echo "$(date "+%d.%m.%Y %T") Built from ${FRM}:${TAG}" >> /build.info
