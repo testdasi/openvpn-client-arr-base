@@ -1,7 +1,7 @@
 # openvpn-client-rio-base
 Even more all-in-one OpenVPN docker, now also comes with *arr apps.
 
-This is the base image with all apps pre-installed installed. Feel free to use this as your starting point for your own customization.
+This is the base image with all apps pre-installed installed. Feel free to use this as a starting point for your own customization.
 * Ubuntu base
 * OpenVPN client
 * Stubby (DNS over TLS)
