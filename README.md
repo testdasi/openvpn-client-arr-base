@@ -3,7 +3,7 @@ Even more all-in-one OpenVPN docker, now also comes with *arr apps.
 
 Note: At some point late 2022, mono cannot be installed in docker ubuntu arm32 due to a circular dependency error. Hence I will not be building arm32 (aka armhf / armv7) for a while.
 
-This is the base image with all apps pre-installed installed. Feel free to use this as a starting point for your own customization.
+This is the base image with all apps pre-installed. Feel free to use this as a starting point for your own customization.
 * Ubuntu base
 * OpenVPN client
 * Stubby (DNS over TLS)
